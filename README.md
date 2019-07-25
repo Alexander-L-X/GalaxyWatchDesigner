@@ -10,13 +10,11 @@
 
 
 ## 部分表盘展示<br/>
-<img src=" ">
-<img src=" ">
-<img src=" ">
-<img src=" ">
-<img src=" ">
-<img src=" ">
-
+<img src="https://github.com/Alexander-L-X/GalaxyWatchDesigner/blob/master/%E8%A1%A8%E7%9B%98%E5%B1%95%E7%A4%BA/girl.png">
+<img src="https://github.com/Alexander-L-X/GalaxyWatchDesigner/blob/master/%E8%A1%A8%E7%9B%98%E5%B1%95%E7%A4%BA/saber.png">
+<img src="https://github.com/Alexander-L-X/GalaxyWatchDesigner/blob/master/%E8%A1%A8%E7%9B%98%E5%B1%95%E7%A4%BA/simple-green.png">
+<img src="https://github.com/Alexander-L-X/GalaxyWatchDesigner/blob/master/%E8%A1%A8%E7%9B%98%E5%B1%95%E7%A4%BA/Leonhard%20Euler.png">
+<img src="https://github.com/Alexander-L-X/GalaxyWatchDesigner/blob/master/%E8%A1%A8%E7%9B%98%E5%B1%95%E7%A4%BA/galaxy.png">
 
 ## 其他信息
 ### 如果有问题请联系我 lxjpce@outlook.com
